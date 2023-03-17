@@ -1,3 +1,4 @@
+
 Willkommen zur Webseite für Abschlussprüfungsvorbereitung!
 
 Diese Webseite wurde erstellt, um Schülerinnen und Schülern dabei zu helfen, sich effektiver auf ihre Abschlussprüfungen vorzubereiten. Wir bieten eine breite Palette von Ressourcen, die Ihnen dabei helfen, Ihre Kenntnisse und Fähigkeiten in verschiedenen Fächern zu verbessern.
@@ -13,3 +14,4 @@ Prüfungstermine und Informationen zur Anmeldung für Abschlussprüfungen.
 Wir aktualisieren unsere Webseite regelmäßig und fügen neue Ressourcen hinzu, um sicherzustellen, dass Sie stets Zugang zu den neuesten und relevantesten Informationen haben.
 
 Wir sind davon überzeugt, dass unsere Webseite Ihnen dabei helfen wird, Ihre Abschlussprüfungen erfolgreich zu meistern. Wenn Sie Fragen oder Anregungen haben, zögern Sie nicht, uns zu kontaktieren. Wir stehen Ihnen gerne zur Verfügung und wünschen Ihnen viel Erfolg bei Ihrer Prüfungsvorbereitung!
+
