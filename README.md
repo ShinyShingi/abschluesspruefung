@@ -1,28 +1,17 @@
-## Demo
 
-https://sunnyg1210.github.io/bootstrapKnowledgeBaseTheme/
+Willkommen zur Webseite für Abschlussprüfungsvorbereitung!
 
-Created by the team at [SVS IT Solutions](https://svsitsolutions.co.uk)
+Diese Webseite wurde erstellt, um Schülerinnen und Schülern dabei zu helfen, sich effektiver auf ihre Abschlussprüfungen vorzubereiten. Wir bieten eine breite Palette von Ressourcen, die Ihnen dabei helfen, Ihre Kenntnisse und Fähigkeiten in verschiedenen Fächern zu verbessern.
 
-<a href="https://svsitsolutions.co.uk"><img src="https://svsitsolutions.co.uk/wp-content/uploads/2017/05/new-svs-website-logo.png"></a>
+Unsere Webseite ist einfach und benutzerfreundlich gestaltet, so dass Sie schnell und einfach die gewünschten Informationen finden können. Wir bieten verschiedene Abschnitte, die jeweils auf bestimmte Fächer und Themenbereiche spezialisiert sind.
 
-#### Follow us on Social Media
-Facebook: [@svssoftwaredev](https://www.facebook.com/svssoftwaredev)
+Zu unseren Ressourcen gehören unter anderem:
 
-Instagram: [@svssoftwaredev](https://www.instagram.com/svssoftwaredev)
+Übungsaufgaben und Prüfungsmaterialien, die auf die jeweiligen Anforderungen und Standards abgestimmt sind.
+Erklärungen und Beispiele, die Ihnen helfen, komplexe Themen besser zu verstehen.
+Lernstrategien und Tipps zur Verbesserung Ihrer Prüfungsvorbereitung.
+Prüfungstermine und Informationen zur Anmeldung für Abschlussprüfungen.
+Wir aktualisieren unsere Webseite regelmäßig und fügen neue Ressourcen hinzu, um sicherzustellen, dass Sie stets Zugang zu den neuesten und relevantesten Informationen haben.
 
-## Synopsis
+Wir sind davon überzeugt, dass unsere Webseite Ihnen dabei helfen wird, Ihre Abschlussprüfungen erfolgreich zu meistern. Wenn Sie Fragen oder Anregungen haben, zögern Sie nicht, uns zu kontaktieren. Wir stehen Ihnen gerne zur Verfügung und wünschen Ihnen viel Erfolg bei Ihrer Prüfungsvorbereitung!
 
-This is a free html Bootstrap Knowledge Base theme, it can be customised to fit wordpress and other CMS systems. If you need help converting the theme, get in touch with me. 
-
-You can use this theme however you like. It is licensed under the MIT license.
-
-## Free Material Design Knowledge Base
-For a newer design of knowledge base made using Material design, see this repository: [https://github.com/sunnyg1210/material-knowledge-base](https://github.com/sunnyg1210/material-knowledge-base)
-
-## Free Material design Angular 4 Admin theme
-If you like this and are building a web application, checkout https://github.com/sunnyg1210/adminbsbmaterial-ANGULAR - this is another theme that customised for Angular 4 and is ready to go for admin style web apps :). More free stuff will be coming soon so keep an eye out ;)
-
-## License
-
-Licensed under MIT License
