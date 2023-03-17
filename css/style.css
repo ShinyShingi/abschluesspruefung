@@ -929,3 +929,6 @@ form.comment-form button {
 	color: #155469;
 	text-decoration: none;
 }
+.image-fluid {
+	max-width: 100%;
+}
